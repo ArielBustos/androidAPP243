@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Inacap</string>
+    <string name="correo_electronico" >correo_electronico</string>
+    <string name="contraseña" >contraseña</string>
+    <string name="iniciar_sesion">iniciar_sesion</string>
+    <string name="Inacap2022" >Inacap2022</string>
+</resources>

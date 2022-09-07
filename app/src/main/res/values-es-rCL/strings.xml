@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Inacap</string>
+    <string name="correo_electronico">correo usuario</string>
+    <string name="contraseña">contraseña</string>
+    <string name="iniciar_sesion">iniciar sesion</string>
+    <string name="Inacap2022">Inacap2022</string>
+</resources>
